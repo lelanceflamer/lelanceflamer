@@ -5,7 +5,7 @@
 
 
 
-Click raw button of this file and see everything in this file.
+Click raw or the "<>" button of this file and see everything in this file.
 
 <!---
 LlFPrograms is Le lance Flamer. Bye! (I used the defaut thing of Github and what? )
